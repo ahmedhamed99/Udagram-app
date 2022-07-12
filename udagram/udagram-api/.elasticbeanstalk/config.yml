@@ -1,0 +1,9 @@
+branch-defaults:
+  master:
+    environment: Udagramapp-env
+global:
+  application_name: udagram-app
+  default_ec2_keyname: eba-e82gbfjp
+  default_platform: Node.js 16 running on 64bit Amazon Linux 2
+  default_region: us-east-1
+  sc: git
