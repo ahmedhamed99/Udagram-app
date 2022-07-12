@@ -1,3 +1,3 @@
 eb init
-eb use udagram-app
+eb use Udagramapp-env
 eb deploy
