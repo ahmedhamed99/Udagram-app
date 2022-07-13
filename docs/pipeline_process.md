@@ -1,0 +1,4 @@
+- First we install dependencies like: Node.js, AWS-Cli, Eb-Cli.
+- Second step is build step where we install app dependencies and build frontend and backend applications.
+- Next is hold step where we approve ci to do deploy step.
+- Last step is deploy step where we deploy our applications to AWS.
