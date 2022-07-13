@@ -1,6 +1,6 @@
 branch-defaults:
   master:
-    environment: Udagramapp-env-2
+    environment:  Udagramapp-env
 global:
   application_name: udagram-app
   default_ec2_keyname: eba-e82gbfjp
