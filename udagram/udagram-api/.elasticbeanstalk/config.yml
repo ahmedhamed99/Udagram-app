@@ -1,6 +1,8 @@
 branch-defaults:
   master:
     environment:  Udagramapp-env
+deploy:
+  artifact: www/Archive.zip
 global:
   application_name: udagram-app
   default_ec2_keyname: eba-e82gbfjp
