@@ -1,6 +1,6 @@
 branch-defaults:
   master:
-    environment:  Udagramapp-env
+    environment:  Udagramapp-env-1
 deploy:
   artifact: www/Archive.zip
 global:
