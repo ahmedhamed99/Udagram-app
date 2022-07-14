@@ -6,6 +6,7 @@ dotenv.config();
 // - AWS_SECRET_ACCESS_KEY
 // Are Also needed
 // done
+// test
 
 export const config = {
   username: `${process.env.POSTGRES_USERNAME}`,
